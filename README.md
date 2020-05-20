@@ -21,3 +21,4 @@ My design of the app include:
 
  ○ Hours of operation
  
+![Screenshot](https://user-images.githubusercontent.com/52229134/82435753-63f3ce00-9ab2-11ea-8a40-94a670d7a068.png)
